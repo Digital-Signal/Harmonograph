@@ -7,3 +7,4 @@
 ![Figure_5](https://github.com/Digital-Signal/Harmonograph/assets/95737827/d7237aee-b450-466b-ae78-8eb4cf3abcab)
 ![Figure_6](https://github.com/Digital-Signal/Harmonograph/assets/95737827/9867a3aa-d8e4-422e-9dd1-051affce9723)
 ![Figure_7](https://github.com/Digital-Signal/Harmonograph/assets/95737827/62b70253-276d-4859-9bf8-9801038aabfd)
+<img width="298" alt="1" src="https://github.com/Digital-Signal/Harmonograph/assets/95737827/a1735210-3f10-4290-a560-fe0188b3f52e">
